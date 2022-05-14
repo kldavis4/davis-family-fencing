@@ -1,0 +1,33 @@
+{
+  "name": "davis-family-fencing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "fetch-refresh-token": "ts-node-esm lib/refresh_token",
+    "sync-youtube": "ts-node-esm lib/youtube.ts",
+    "test_1": "ts-node-esm lib/yaml_test.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "isomorphic-fetch": "^3.0.0",
+    "js-yaml": "^3.14.1",
+    "koa": "^2.13.4",
+    "remark-frontmatter": "^4.0.1",
+    "remark-parse": "^10.0.1",
+    "remark-stringify": "^10.0.2",
+    "unified": "^10.1.2"
+  },
+  "devDependencies": {
+    "@types/isomorphic-fetch": "^0.0.36",
+    "@types/js-yaml": "^4.0.5",
+    "@types/koa": "^2.13.4",
+    "@types/node": "^17.0.31",
+    "@typescript-eslint/eslint-plugin": "^5.20.0",
+    "@typescript-eslint/parser": "^5.20.0",
+    "dotenv": "^16.0.0",
+    "eslint": "8.14.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
+  "type": "module"
+}

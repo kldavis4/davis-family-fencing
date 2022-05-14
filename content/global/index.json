@@ -1,0 +1,45 @@
+{
+  "header": {
+    "icon": {
+      "color": "orange",
+      "style": "float",
+      "name": "tina"
+    },
+    "color": "default",
+    "nav": [
+      {
+        "href": "",
+        "label": "Home"
+      },
+      {
+        "href": "about",
+        "label": "About"
+      },
+      {
+        "href": "classes",
+        "label": "Classes"
+      },
+      {
+        "href": "contact",
+        "label": "Contact"
+      },
+      {
+        "href": "posts/pages/1",
+        "label": "Blog"
+      }
+    ]
+  },
+  "footer": {
+    "color": "default",
+    "social": {
+      "facebook": "https://www.facebook.com/ResoluteSportFencing",
+      "instagram": "https://www.instagram.com/resolutesportfencing/"
+    }
+  },
+  "theme": {
+    "color": "blue",
+    "font": "sans",
+    "icon": "boxicon",
+    "darkMode": "system"
+  }
+}

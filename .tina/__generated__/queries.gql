@@ -1,0 +1,34 @@
+query playlist($relativePath: String!) {
+  playlist(relativePath: $relativePath) {
+    _sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
+    }
+    id
+    ...PlaylistParts
+  }
+}
+
+query playlistConnection {
+  playlistConnection {
+    totalCount
+    edges {
+      node {
+        id
+        _sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        ...PlaylistParts
+      }
+    }
+  }
+}

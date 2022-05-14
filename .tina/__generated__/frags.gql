@@ -1,0 +1,75 @@
+fragment PlaylistParts on Playlist {
+  title
+  publishedAt
+  description
+  thumbnail_default {
+    __typename
+    url
+    width
+    height
+  }
+  thumbnail_medium {
+    __typename
+    url
+    width
+    height
+  }
+  thumbnail_high {
+    __typename
+    url
+    width
+    height
+  }
+  thumbnail_standard {
+    __typename
+    url
+    width
+    height
+  }
+  thumbnail_maxres {
+    __typename
+    url
+    width
+    height
+  }
+  videos {
+    __typename
+    ... on PlaylistVideosVideo {
+      title
+      publishedAt
+      videoId
+      description
+      position
+      thumbnail_default {
+        __typename
+        url
+        width
+        height
+      }
+      thumbnail_medium {
+        __typename
+        url
+        width
+        height
+      }
+      thumbnail_high {
+        __typename
+        url
+        width
+        height
+      }
+      thumbnail_standard {
+        __typename
+        url
+        width
+        height
+      }
+      thumbnail_maxres {
+        __typename
+        url
+        width
+        height
+      }
+    }
+  }
+}
