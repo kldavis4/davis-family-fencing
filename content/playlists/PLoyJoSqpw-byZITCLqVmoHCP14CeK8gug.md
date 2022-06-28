@@ -30,28 +30,28 @@ videos:
     publishedAt: '2021-04-04T23:06:56Z'
     thumbnail_default:
       url: >-
-        https://i9.ytimg.com/vi/VZp8ZJ8OU_E/default.jpg?sqp=CKy14ZMG&rs=AOn4CLBt2FvYJuIawUgXTcai3zPeNenMNQ
+        https://i9.ytimg.com/vi/VZp8ZJ8OU_E/default.jpg?sqp=CNyU6ZUG&rs=AOn4CLCJ6pOQ2JyyYuAWpJB0Gmzxe9a1-A
       width: 120
       height: 90
     _template: video
     thumbnail_medium:
       url: >-
-        https://i9.ytimg.com/vi/VZp8ZJ8OU_E/mqdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLA7jK67WFf7S5-N2FCFAGK2d3v9Hw
+        https://i9.ytimg.com/vi/VZp8ZJ8OU_E/mqdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLBENztBW696j55vwM8-uwx45D8zRA
       width: 320
       height: 180
     thumbnail_high:
       url: >-
-        https://i9.ytimg.com/vi/VZp8ZJ8OU_E/hqdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLDdrLN497_5nL1LSkDx2G3B2jnKrA
+        https://i9.ytimg.com/vi/VZp8ZJ8OU_E/hqdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLC1K9kS7Yw4JfJBOmSwIrOSHvuemg
       width: 480
       height: 360
     thumbnail_standard:
       url: >-
-        https://i9.ytimg.com/vi/VZp8ZJ8OU_E/sddefault.jpg?sqp=CKy14ZMG&rs=AOn4CLDKWUiwe1WaeGxsNz65PSY9X7YJcw
+        https://i9.ytimg.com/vi/VZp8ZJ8OU_E/sddefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLBSx1T5l8aH4M0I8RoAC3zzE15-8w
       width: 640
       height: 480
     thumbnail_maxres:
       url: >-
-        https://i9.ytimg.com/vi/VZp8ZJ8OU_E/maxresdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLA9XSSE6mearP5IymTs-LyVvHf2UA
+        https://i9.ytimg.com/vi/VZp8ZJ8OU_E/maxresdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLCledmqPW0yduwWNsbOtxTd6Io-WA
       width: 1280
       height: 720
   - title: Pool bout 5
@@ -61,28 +61,28 @@ videos:
     publishedAt: '2021-04-04T23:06:56Z'
     thumbnail_default:
       url: >-
-        https://i9.ytimg.com/vi/flFZBR6Ewc4/default.jpg?sqp=CKy14ZMG&rs=AOn4CLANy4TaUc4iCzMNcKCiZl-fGXDk8Q
+        https://i9.ytimg.com/vi/flFZBR6Ewc4/default.jpg?sqp=CNyU6ZUG&rs=AOn4CLC1002mnV0WntyGvSsSkVW7juSo9w
       width: 120
       height: 90
     _template: video
     thumbnail_medium:
       url: >-
-        https://i9.ytimg.com/vi/flFZBR6Ewc4/mqdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLB5paPBFxS-xk_JMu6txUyqR7yyvw
+        https://i9.ytimg.com/vi/flFZBR6Ewc4/mqdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLBJgUJqetElsflpSl-s06G5P9XdrQ
       width: 320
       height: 180
     thumbnail_high:
       url: >-
-        https://i9.ytimg.com/vi/flFZBR6Ewc4/hqdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLCoSplMbjpAMmR9BzrQAiO2mWjEOQ
+        https://i9.ytimg.com/vi/flFZBR6Ewc4/hqdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLD-8IYByDj58zuja8bj6LH-kwQI8A
       width: 480
       height: 360
     thumbnail_standard:
       url: >-
-        https://i9.ytimg.com/vi/flFZBR6Ewc4/sddefault.jpg?sqp=CKy14ZMG&rs=AOn4CLB7H7hUtXU0uLecqRSlInY6BHCUlg
+        https://i9.ytimg.com/vi/flFZBR6Ewc4/sddefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLCc6P72RbJlyZ7kd8EtgOOxJDauog
       width: 640
       height: 480
     thumbnail_maxres:
       url: >-
-        https://i9.ytimg.com/vi/flFZBR6Ewc4/maxresdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLCglDpjbrgsi2z5DdcE-NhwDsoAxg
+        https://i9.ytimg.com/vi/flFZBR6Ewc4/maxresdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLCmHEO2gVjr6486b8vDjCSV4FDjfA
       width: 1280
       height: 720
   - title: Pool bout 4
@@ -92,28 +92,28 @@ videos:
     publishedAt: '2021-04-04T23:06:56Z'
     thumbnail_default:
       url: >-
-        https://i9.ytimg.com/vi/ahiVKCXdVVs/default.jpg?sqp=CKy14ZMG&rs=AOn4CLCulkF66VR3Cg4LIo3r43Y-vnR3dw
+        https://i9.ytimg.com/vi/ahiVKCXdVVs/default.jpg?sqp=CNyU6ZUG&rs=AOn4CLCcNQgc9fk5b_ELh8AoWkO3gSzI0Q
       width: 120
       height: 90
     _template: video
     thumbnail_medium:
       url: >-
-        https://i9.ytimg.com/vi/ahiVKCXdVVs/mqdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLC9MumaNxU2Gya9twVbad4kgV87BA
+        https://i9.ytimg.com/vi/ahiVKCXdVVs/mqdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLAvehAYhtDKDCHLOkiid5J-zi3Nlg
       width: 320
       height: 180
     thumbnail_high:
       url: >-
-        https://i9.ytimg.com/vi/ahiVKCXdVVs/hqdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLBwIjmz6BzWOs0pRYdhcdQogtPlGA
+        https://i9.ytimg.com/vi/ahiVKCXdVVs/hqdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLC-_HpUEVG0JBiJbSrIpElvQN1M9g
       width: 480
       height: 360
     thumbnail_standard:
       url: >-
-        https://i9.ytimg.com/vi/ahiVKCXdVVs/sddefault.jpg?sqp=CKy14ZMG&rs=AOn4CLCZkiO7xBZdtE5nZuG1_msz6OW--w
+        https://i9.ytimg.com/vi/ahiVKCXdVVs/sddefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLCpfQL_Q3lPvg4Yo5GePiYyJBWCJA
       width: 640
       height: 480
     thumbnail_maxres:
       url: >-
-        https://i9.ytimg.com/vi/ahiVKCXdVVs/maxresdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLAPOqZ0tyBEVx1bPuR7oZKv_bB50g
+        https://i9.ytimg.com/vi/ahiVKCXdVVs/maxresdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLBcPuXNWMT7KEPbu7Xz-_nRkbFC4g
       width: 1280
       height: 720
   - title: Pool bout 3
@@ -123,28 +123,28 @@ videos:
     publishedAt: '2021-04-04T23:06:56Z'
     thumbnail_default:
       url: >-
-        https://i9.ytimg.com/vi/ADNj8z_05aE/default.jpg?sqp=CKy14ZMG&rs=AOn4CLBJe1NCp73NkgCPcSPIPahbS-FwAQ
+        https://i9.ytimg.com/vi/ADNj8z_05aE/default.jpg?sqp=CNyU6ZUG&rs=AOn4CLClkDxGkCEtGU2hBrduUJz6x1tdnA
       width: 120
       height: 90
     _template: video
     thumbnail_medium:
       url: >-
-        https://i9.ytimg.com/vi/ADNj8z_05aE/mqdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLCY7GbCprlishenxeCwLg-FDvg0FQ
+        https://i9.ytimg.com/vi/ADNj8z_05aE/mqdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLCLRJWXOXPTc4JT--pJVe4g2TZKIQ
       width: 320
       height: 180
     thumbnail_high:
       url: >-
-        https://i9.ytimg.com/vi/ADNj8z_05aE/hqdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLDRr7nMIzZK3lq9knX1orZlbqkFTQ
+        https://i9.ytimg.com/vi/ADNj8z_05aE/hqdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLBHZUSJOd9a8hWTTjoKN3l7SJf36w
       width: 480
       height: 360
     thumbnail_standard:
       url: >-
-        https://i9.ytimg.com/vi/ADNj8z_05aE/sddefault.jpg?sqp=CKy14ZMG&rs=AOn4CLAgCmTxJOMicKfhfdjJcMulf8_pxg
+        https://i9.ytimg.com/vi/ADNj8z_05aE/sddefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLATU2s7-waMQq9JX0Xnntn0t2XLZA
       width: 640
       height: 480
     thumbnail_maxres:
       url: >-
-        https://i9.ytimg.com/vi/ADNj8z_05aE/maxresdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLAMRDBfuZZ6dlo3K8oJ35pTOtY9Pw
+        https://i9.ytimg.com/vi/ADNj8z_05aE/maxresdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLCeYaXCo4n4u7rSMpXhwLstSkZGzg
       width: 1280
       height: 720
   - title: Pool bout 2
@@ -180,28 +180,28 @@ videos:
     publishedAt: '2021-04-04T23:06:56Z'
     thumbnail_default:
       url: >-
-        https://i9.ytimg.com/vi/iK-_-ESbU6A/default.jpg?sqp=CKy14ZMG&rs=AOn4CLBYf5gVFTRv0w20EAD_S6lUJ9hi5Q
+        https://i9.ytimg.com/vi/iK-_-ESbU6A/default.jpg?sqp=CNyU6ZUG&rs=AOn4CLAFu5PwKwhFU6SLDdzwVdeOQlFKSw
       width: 120
       height: 90
     _template: video
     thumbnail_medium:
       url: >-
-        https://i9.ytimg.com/vi/iK-_-ESbU6A/mqdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLDplqwth91hM4Lz1gCwN-iW7igrEQ
+        https://i9.ytimg.com/vi/iK-_-ESbU6A/mqdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLDUqIVN86VQiy_j4klxHar678WXbA
       width: 320
       height: 180
     thumbnail_high:
       url: >-
-        https://i9.ytimg.com/vi/iK-_-ESbU6A/hqdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLCukqQTgkDyfWZsVqOjGVkw9Q81fg
+        https://i9.ytimg.com/vi/iK-_-ESbU6A/hqdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLDv9DkMTYzYeaqRz6YQPrAbddqGhg
       width: 480
       height: 360
     thumbnail_standard:
       url: >-
-        https://i9.ytimg.com/vi/iK-_-ESbU6A/sddefault.jpg?sqp=CKy14ZMG&rs=AOn4CLCNqrgwFJmwd2k9oMTgKCDisp40gw
+        https://i9.ytimg.com/vi/iK-_-ESbU6A/sddefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLCE9cx2CgNdvC2oFL16CRnmQTNpbA
       width: 640
       height: 480
     thumbnail_maxres:
       url: >-
-        https://i9.ytimg.com/vi/iK-_-ESbU6A/maxresdefault.jpg?sqp=CKy14ZMG&rs=AOn4CLCXmuCAeIRTlkTSbhmUV3WfU3SHrg
+        https://i9.ytimg.com/vi/iK-_-ESbU6A/maxresdefault.jpg?sqp=CNyU6ZUG&rs=AOn4CLAnxi0uZ6MtpkTc2q8D9dw2yWZ_ug
       width: 1280
       height: 720
   - title: DE Period 1

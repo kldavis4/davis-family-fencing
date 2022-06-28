@@ -52,6 +52,6 @@ app.use(async (ctx: ExtendableContext) => {
 })
 
 console.log(`Visit https://accounts.google.com/o/oauth2/auth?scope=${SCOPE}&redirect_uri=${redirectUri}&response_type=code&client_id=${CLIENT_ID}&access_type=offline&prompt=consent`)
-if (!module.parent) {
+//if (!module.parent) {
   app.listen(3000)
-}
+//}

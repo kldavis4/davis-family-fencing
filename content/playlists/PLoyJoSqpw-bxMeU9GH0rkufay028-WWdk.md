@@ -309,35 +309,9 @@ videos:
       url: 'https://i.ytimg.com/vi/bsVxK73H3rc/maxresdefault.jpg'
       width: 1280
       height: 720
-  - title: ATL Sep 2019 Cadet DE 1 Part 2
-    description: ''
-    position: 11
-    videoId: k0D6B2FVitU
-    publishedAt: '2019-09-14T23:50:56Z'
-    thumbnail_default:
-      url: 'https://i.ytimg.com/vi/k0D6B2FVitU/default.jpg'
-      width: 120
-      height: 90
-    _template: video
-    thumbnail_medium:
-      url: 'https://i.ytimg.com/vi/k0D6B2FVitU/mqdefault.jpg'
-      width: 320
-      height: 180
-    thumbnail_high:
-      url: 'https://i.ytimg.com/vi/k0D6B2FVitU/hqdefault.jpg'
-      width: 480
-      height: 360
-    thumbnail_standard:
-      url: 'https://i.ytimg.com/vi/k0D6B2FVitU/sddefault.jpg'
-      width: 640
-      height: 480
-    thumbnail_maxres:
-      url: 'https://i.ytimg.com/vi/k0D6B2FVitU/maxresdefault.jpg'
-      width: 1280
-      height: 720
   - title: ATL Sep 2019 Cadet Pool Bout 5
     description: ''
-    position: 12
+    position: 11
     videoId: mR6kxXsms-0
     publishedAt: '2019-09-14T23:50:44Z'
     thumbnail_default:
@@ -359,6 +333,32 @@ videos:
       height: 480
     thumbnail_maxres:
       url: 'https://i.ytimg.com/vi/mR6kxXsms-0/maxresdefault.jpg'
+      width: 1280
+      height: 720
+  - title: ATL Sep 2019 Cadet DE 1 Part 2
+    description: ''
+    position: 12
+    videoId: k0D6B2FVitU
+    publishedAt: '2019-09-14T23:50:56Z'
+    thumbnail_default:
+      url: 'https://i.ytimg.com/vi/k0D6B2FVitU/default.jpg'
+      width: 120
+      height: 90
+    _template: video
+    thumbnail_medium:
+      url: 'https://i.ytimg.com/vi/k0D6B2FVitU/mqdefault.jpg'
+      width: 320
+      height: 180
+    thumbnail_high:
+      url: 'https://i.ytimg.com/vi/k0D6B2FVitU/hqdefault.jpg'
+      width: 480
+      height: 360
+    thumbnail_standard:
+      url: 'https://i.ytimg.com/vi/k0D6B2FVitU/sddefault.jpg'
+      width: 640
+      height: 480
+    thumbnail_maxres:
+      url: 'https://i.ytimg.com/vi/k0D6B2FVitU/maxresdefault.jpg'
       width: 1280
       height: 720
   - title: ATL Sep 2019 Cadet Pool Bout 4

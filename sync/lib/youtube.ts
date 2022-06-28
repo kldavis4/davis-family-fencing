@@ -2,7 +2,34 @@ import 'dotenv/config'
 import fetch from 'isomorphic-fetch';
 import fs from 'fs'
 import yaml from 'js-yaml'
-import {parseMarkdown, stringify} from './yaml_test.js'
+import {Specific, unified} from 'unified'
+import remarkParse from 'remark-parse'
+import remarkFrontmatter from 'remark-frontmatter'
+import remarkStringify from 'remark-stringify'
+import {Parent} from 'unist'
+
+export const parseMarkdown = (content: string): { frontmatter: string, markdown: string } => {
+  const parser = unified()
+    .use(remarkParse)
+    .use(remarkStringify)
+    .use(remarkFrontmatter, ['yaml'])
+
+  const tree: Parent = parser.parse(content)
+  const filteredTree: any = {
+    ...tree,
+    children: tree.children.filter((node: any) => (node.type !== 'yaml'))
+  }
+  // console.log(filteredTree.children.filter(item => item.type !== 'yaml'))
+  const frontmatter: string = tree.children.find(node => node.type === 'yaml')['value']
+  const markdown = parser.stringify(filteredTree)
+  return {
+    frontmatter, markdown: markdown as any
+  }
+}
+
+export const stringify = (content:{ frontmatter: string, markdown: string }) => {
+  return `---\n${content.frontmatter}\n---\n${content.markdown}`
+}
 
 const {
   CLIENT_ID,
