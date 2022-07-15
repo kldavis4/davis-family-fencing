@@ -179,35 +179,9 @@ videos:
       url: 'https://i.ytimg.com/vi/CFvTidVECiE/maxresdefault.jpg'
       width: 1280
       height: 720
-  - title: ATL Sept 2019 Y14 Pool Bout 4
-    description: ''
-    position: 6
-    videoId: XWPWP6w0KXs
-    publishedAt: '2019-09-16T00:38:20Z'
-    thumbnail_default:
-      url: 'https://i.ytimg.com/vi/XWPWP6w0KXs/default.jpg'
-      width: 120
-      height: 90
-    _template: video
-    thumbnail_medium:
-      url: 'https://i.ytimg.com/vi/XWPWP6w0KXs/mqdefault.jpg'
-      width: 320
-      height: 180
-    thumbnail_high:
-      url: 'https://i.ytimg.com/vi/XWPWP6w0KXs/hqdefault.jpg'
-      width: 480
-      height: 360
-    thumbnail_standard:
-      url: 'https://i.ytimg.com/vi/XWPWP6w0KXs/sddefault.jpg'
-      width: 640
-      height: 480
-    thumbnail_maxres:
-      url: 'https://i.ytimg.com/vi/XWPWP6w0KXs/maxresdefault.jpg'
-      width: 1280
-      height: 720
   - title: ATL Sep 2019 Cadet Pool Bout 2
     description: ''
-    position: 7
+    position: 6
     videoId: bFvNGQDtjgA
     publishedAt: '2019-09-14T23:50:14Z'
     thumbnail_default:
@@ -229,6 +203,32 @@ videos:
       height: 480
     thumbnail_maxres:
       url: 'https://i.ytimg.com/vi/bFvNGQDtjgA/maxresdefault.jpg'
+      width: 1280
+      height: 720
+  - title: ATL Sept 2019 Y14 Pool Bout 4
+    description: ''
+    position: 7
+    videoId: XWPWP6w0KXs
+    publishedAt: '2019-09-16T00:38:20Z'
+    thumbnail_default:
+      url: 'https://i.ytimg.com/vi/XWPWP6w0KXs/default.jpg'
+      width: 120
+      height: 90
+    _template: video
+    thumbnail_medium:
+      url: 'https://i.ytimg.com/vi/XWPWP6w0KXs/mqdefault.jpg'
+      width: 320
+      height: 180
+    thumbnail_high:
+      url: 'https://i.ytimg.com/vi/XWPWP6w0KXs/hqdefault.jpg'
+      width: 480
+      height: 360
+    thumbnail_standard:
+      url: 'https://i.ytimg.com/vi/XWPWP6w0KXs/sddefault.jpg'
+      width: 640
+      height: 480
+    thumbnail_maxres:
+      url: 'https://i.ytimg.com/vi/XWPWP6w0KXs/maxresdefault.jpg'
       width: 1280
       height: 720
   - title: ATL Sept 2019 Y14 Pool Bout 2
