@@ -115,6 +115,10 @@ videos:
       url: 'https://i.ytimg.com/vi/4fUdYOdtJv0/hqdefault.jpg'
       width: 480
       height: 360
+    thumbnail_standard:
+      url: 'https://i.ytimg.com/vi/4fUdYOdtJv0/sddefault.jpg'
+      width: 640
+      height: 480
   - title: Pool 5
     description: ''
     position: 4

@@ -33,6 +33,10 @@ videos:
       url: 'https://i.ytimg.com/vi/80_5F6StBVw/hqdefault.jpg'
       width: 480
       height: 360
+    thumbnail_standard:
+      url: 'https://i.ytimg.com/vi/80_5F6StBVw/sddefault.jpg'
+      width: 640
+      height: 480
   - title: pool 1
     description: ''
     position: 1
@@ -121,6 +125,10 @@ videos:
       url: 'https://i.ytimg.com/vi/H6kymeBZCIQ/hqdefault.jpg'
       width: 480
       height: 360
+    thumbnail_standard:
+      url: 'https://i.ytimg.com/vi/H6kymeBZCIQ/sddefault.jpg'
+      width: 640
+      height: 480
   - title: pool 2
     description: ''
     position: 5
@@ -147,5 +155,9 @@ videos:
       url: 'https://i.ytimg.com/vi/YaZUgZRsFcs/maxresdefault.jpg'
       width: 1280
       height: 720
+thumbnail_standard:
+  url: 'https://i.ytimg.com/vi/80_5F6StBVw/sddefault.jpg'
+  width: 640
+  height: 480
 
 ---

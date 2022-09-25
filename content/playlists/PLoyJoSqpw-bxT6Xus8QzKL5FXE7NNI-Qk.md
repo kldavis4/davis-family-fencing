@@ -129,6 +129,10 @@ videos:
       url: 'https://i.ytimg.com/vi/jOxCAcnffoY/hqdefault.jpg'
       width: 480
       height: 360
+    thumbnail_standard:
+      url: 'https://i.ytimg.com/vi/jOxCAcnffoY/sddefault.jpg'
+      width: 640
+      height: 480
   - title: Elisabeth Y12 Pool 6 - Orlando SYC
     description: ''
     position: 5

@@ -2163,6 +2163,14 @@ videos:
       url: 'https://i.ytimg.com/vi/ZwUWYozkyHo/hqdefault.jpg'
       width: 480
       height: 360
+    thumbnail_standard:
+      url: 'https://i.ytimg.com/vi/ZwUWYozkyHo/sddefault.jpg'
+      width: 640
+      height: 480
+    thumbnail_maxres:
+      url: 'https://i.ytimg.com/vi/ZwUWYozkyHo/maxresdefault.jpg'
+      width: 1280
+      height: 720
   - title: OSS Y12 Epee Final DE Part 4
     description: ''
     position: 82

@@ -163,5 +163,9 @@ videos:
       url: 'https://i.ytimg.com/vi/t4sInKWfmzs/hqdefault.jpg'
       width: 480
       height: 360
+    thumbnail_standard:
+      url: 'https://i.ytimg.com/vi/t4sInKWfmzs/sddefault.jpg'
+      width: 640
+      height: 480
 
 ---
